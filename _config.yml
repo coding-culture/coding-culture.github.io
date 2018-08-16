@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Coding Culture
-email: fergusonadam2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is a place for me to write about me learning code,
   developing new ideas, investigating code and generally
